@@ -1,12 +1,11 @@
-from math import floor
-time_first = int(input())
-time_second = int(input())
-time_third = int(input())
+first_time = int(input())
+second_time = int(input())
+third_time = int(input())
 
-total_time = time_first + time_second + time_third
+all_time = first_time + second_time + third_time
 
-minutes = floor(total_time / 60)
-seconds = total_time % 60
+minutes = all_time // 60
+seconds = all_time % 60
 
 if seconds < 10:
     print(f"{minutes}:0{seconds}")

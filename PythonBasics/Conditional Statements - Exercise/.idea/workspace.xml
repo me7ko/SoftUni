@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c978c75c-6bc0-4071-9232-1c34868deb98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Conditional Statements - Exercise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Conditional Statements - Exercise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01. Sum Seconds.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. Sum Seconds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02. Bonus Score.py" beforeDir="false" afterPath="$PROJECT_DIR$/02. Bonus Score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03. Time + 15 Minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/03. Time + 15 Minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04. Toy Shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/04. Toy Shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Godzilla vs. Kong.py" beforeDir="false" afterPath="$PROJECT_DIR$/05. Godzilla vs. Kong.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06. World Swimming Record.py" beforeDir="false" afterPath="$PROJECT_DIR$/06. World Swimming Record.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07. Shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/07. Shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08. Lunch Break.py" beforeDir="false" afterPath="$PROJECT_DIR$/08. Lunch Break.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2F28xqjwoTyUPCJz62PlZxPHXRW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c978c75c-6bc0-4071-9232-1c34868deb98" name="Changes" comment="" />
+      <created>1663679069317</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663679069317</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. Toy Shop.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05. Godzilla vs. Kong.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. Shopping.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

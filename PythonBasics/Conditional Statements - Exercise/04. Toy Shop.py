@@ -1,29 +1,20 @@
-puzzle = 2.60
-talking_doll = 3
-bear = 4.10
-minion = 8.20
-truck = 2
-
 price_excursion = float(input())
 puzzle_count = int(input())
-talking_doll_count = int(input())
-bear_count = int(input())
-minion_count = int(input())
-truck_count = int(input())
+dolls_count = int(input())
+bears_count = int(input())
+minions_count = int(input())
+trucks_count = int(input())
 
-suma = (puzzle * puzzle_count) + (talking_doll * talking_doll_count) + (bear * bear_count) + (minion * minion_count) + (truck * truck_count)
-total_count = puzzle_count + talking_doll_count + bear_count + minion_count + truck_count
+total_price = (puzzle_count * 2.6) + (dolls_count * 3) + (bears_count * 4.1) + (minions_count * 8.2) + (trucks_count * 2)
+total_toys = puzzle_count + dolls_count + bears_count + minions_count + trucks_count
 
-if total_count >= 50:
-    discount = suma * 0.25
+if total_toys >= 50:
+    total_price = total_price - (total_price * 0.25)
+
+total_price = total_price - (total_price * 0.1)
+
+diff = abs(price_excursion - total_price)
+if price_excursion <= total_price:
+    print(f"Yes! {diff:.2f} lv left.")
 else:
-    discount = 0
-
-final_price = suma - discount
-rent = final_price * 0.10
-win = final_price - rent
-final = win - price_excursion
-if win >= price_excursion:
-    print(f"Yes! {final:.2f} lv left.")
-else:
-    print(f"Not enough money! {price_excursion - win:.2f} lv needed.")
+    print(f"Not enough money! {diff:.2f} lv needed.")

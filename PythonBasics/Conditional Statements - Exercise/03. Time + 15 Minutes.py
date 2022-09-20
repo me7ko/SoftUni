@@ -1,20 +1,15 @@
-hours_input = int(input())
-minutes_input = int(input())
+init_hours = int(input())
+init_minutes = int(input())
 
+all_time = (init_hours * 60) + init_minutes + 15
 
-minutes_input += hours_input * 60
-minutes_input += 15
+hours = all_time // 60
+minutes = all_time % 60
 
-hour = int(minutes_input / 60)
-minutes = minutes_input % 60
-
-if hour == 24:
-    hour = 0
-if minutes == 60:
-    minutes = 0
+if hours == 24:
+    hours = 0
 
 if minutes < 10:
-    print(f"{hour}:0{minutes}")
+    print(f"{hours}:0{minutes}")
 else:
-    print(f"{hour}:{minutes}")
-
+    print(f"{hours}:{minutes}")
