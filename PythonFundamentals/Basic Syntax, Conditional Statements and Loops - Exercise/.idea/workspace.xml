@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f81793f-0f84-480e-bdda-1d54af68837f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/02. Drink Something.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03. Chat Codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04. Maximum Multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05. Orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06. String Pureness.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/07. Double Char.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08. How Much Coffee Do You Need.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/09. Sorting Hat.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01. Jenny's Secret Message.py" beforeDir="false" afterPath="$PROJECT_DIR$/01. Jenny's Secret Message.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05. Orders.py" beforeDir="false" afterPath="$PROJECT_DIR$/05. Orders.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +93,36 @@
           <url>file://$PROJECT_DIR$/04. Maximum Multiple.py</url>
           <line>7</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/05. Orders.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/06. String Pureness.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. Double Char.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/07. Double Char.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09. Sorting Hat.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/09. Sorting Hat.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
