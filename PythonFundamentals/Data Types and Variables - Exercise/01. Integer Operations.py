@@ -1,9 +1,7 @@
-num = int(input())
-odd = int(num % 2)
+first_input = int(input())
+second_input = int(input())
+third_input = int(input())
+fourth_input = int(input())
 
-while odd == 0:
-    input(num)
-
-    if odd != 0:
-        break
-print(f"{num} is odd!")
+result = (first_input + second_input) // third_input * fourth_input
+print(result)
