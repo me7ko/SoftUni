@@ -1,27 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bb8965d0-c102-4d23-b77d-650f9aef6f17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/01. Smallest of Three Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/02. Add and Subtract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/03. Characters in Range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/04. Odd and Even Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/05. Even Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/06. Sort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/07. Min Max and Sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/08. Palindrome Integers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/09. Password Validator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/10. Perfect Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/11. Loading Bar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Functions - Exercise/12. Factorial Division.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01. Data Types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02. Center Point.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/01. Zeros to Back.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/02. Messaging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/03. Car Race.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/04. Josephus Permutation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/05. Tic-Tac-Toe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lists Basics - More Exercises/06. List Manipulator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/03. Longer Line.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04. Tribonacci Sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05. Multiplication Sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/01. No Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/02. Trains.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/03. To-do List.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/04. Palindrome Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/05. Sorting Names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/06. Even Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lists Advanced - Lab/07. The Office.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lists Basics - Exercise/10. Bread Factory.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/GitHubRepos/SoftUni/PythonFundamentals/Functions - More Exercises"
+    "last_opened_file_path": "D:/GitHubRepos/SoftUni/PythonFundamentals/Lists Advanced - Lab"
   }
 }]]></component>
   <component name="RunManager">
@@ -100,6 +95,10 @@
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/02. Center Point.py</url>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/04. Tribonacci Sequence.py</url>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
