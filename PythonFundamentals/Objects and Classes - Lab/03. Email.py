@@ -5,10 +5,8 @@ class Email:
         self.content = content
         self.is_sent = False
 
-
     def send(self):
         self.is_sent = True
-
 
     def get_info(self):
         return f"{self.sender} says to {self.receiver}: {self.content}. Sent: {self.is_sent}"
